@@ -11,7 +11,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 ### Data
 
-- VARIABLE      -   DESCRIPTION
+VARIABLE      -   DESCRIPTION
 - Loan_ID     -   Unique Loan ID
 - Gender      -   Male/ Female
 - Married     -   Applicant married (Y/N)
